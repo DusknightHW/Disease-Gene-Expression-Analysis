@@ -33,7 +33,7 @@ Benjamini-Hochberg FDR correction.
 - Top candidates visualized in forest plot (see below)
 - One gene flagged as marginal effect size (see figure note)
 
-![Forest plot](figures/forest_plot.png)
+![Forest plot](forest_plot.png)
 
 ## Tools
 
