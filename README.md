@@ -35,7 +35,7 @@ Benjamini-Hochberg FDR correction.
 - One gene flagged as marginal effect size (see print in Jupyter)
 - Only gene overexpression found, underexpression also expected but not found
 
-![Forest plot](forest_plot(1).png) 
+![Forest plot](Forest_plot.png) 
 
 ## Tools
 
