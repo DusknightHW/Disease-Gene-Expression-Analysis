@@ -24,7 +24,7 @@ Benjamini-Hochberg FDR correction.
 2. **Descriptive statistics** — mean, variance, 95% CI per gene
 3. **Differential expression** — two-sample t-test per gene
 4. **Multiple-testing correction** — Benjamini-Hochberg FDR
-5. **Candidate filtering** — FDR-adjusted p < 0.05 and non-overlapping CIs
+5. **Candidate filtering** — non-overlapping CIs between two groups
 6. **Visualization** — forest plot
 
 ## Results
