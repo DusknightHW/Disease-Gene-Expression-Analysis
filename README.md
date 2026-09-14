@@ -5,7 +5,7 @@ associated with disease status, using Python and standard statistical methods.
 
 ## Overview
 
-This project analyzes gene expression data from diseased and healthy
+This project analyzes simulated gene expression data from diseased and healthy
 patients. For each of 3000 genes, I computed descriptive statistics
 (mean, variance, 95% confidence intervals) and tested for differential
 expression between groups using two-sample t-tests. To control for
@@ -18,6 +18,7 @@ Benjamini-Hochberg FDR correction.
 - 3000 genes × 2000 patients
 - Gene expression values are standardized
 - Two groups: diseased and healthy
+- Simulated data for practice
 
 ## Methods
 
@@ -33,7 +34,7 @@ Benjamini-Hochberg FDR correction.
 - 51 genes with significant differential expression (FDR < 0.05, non-overlapping CIs)
 - Top candidates visualized in forest plot (see below)
 - One gene flagged as marginal effect size (see print in Jupyter)
-- Only gene overexpression found, underexpression also expected but not found
+- Only gene overexpression found in the simulation, underexpression also expected but not found
 
 ![Forest plot](Forest_plot.png) 
 
