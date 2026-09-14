@@ -29,9 +29,10 @@ Benjamini-Hochberg FDR correction.
 
 ## Results
 
-- 51 genes with significant differential expression (FDR < 0.05)
+- 51 genes with significant differential expression (FDR < 0.05, non-overlapping CIs)
 - Top candidates visualized in forest plot (see below)
-- One gene flagged as marginal effect size (see figure note)
+- One gene flagged as marginal effect size (see print in Jupyter)
+- Only gene overexpression found, underexpression also expected but not found
 
 ![Forest plot](forest_plot.png)
 
