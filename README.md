@@ -16,7 +16,7 @@ Benjamini-Hochberg FDR correction.
 
 - Source: [Kaggle | https://www.kaggle.com/datasets/meruvakodandasuraj/gene-expression-dataset-for-disease-classification/data#1]
 - 3000 genes × 2000 patients
-- Gene expression values are normalized
+- Gene expression values are standardized
 - Two groups: diseased and healthy
 
 ## Methods
